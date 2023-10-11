@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "memory-game", "memory-game.csproj", "{7A871E89-5BA3-4285-AFA3-4178FAC94464}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MemoryGame", "MemoryGame.csproj", "{7A871E89-5BA3-4285-AFA3-4178FAC94464}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
