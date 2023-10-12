@@ -8,7 +8,7 @@
 	WindowState="Maximized"
 	WindowStyle="None"
 	Title="Memory">
+	<!--De preview is een borderless window van 1920x1080 maar wordt borderless maximized zodra de applicatie start-->
 	<Grid Name="grid" Width="1920" Height="1080">
-		<!--De preview is een borderless window van 1920x1080 maar wordt borderless maximized zodra de applicatie start-->
 	</Grid>
 </Window>
